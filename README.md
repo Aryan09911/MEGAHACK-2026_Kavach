@@ -1,5 +1,5 @@
 # MEGAHACK-2026_Kavach
-# Smart Safety Helmet
+# Smart Safety Kavach{Helmet}
 
 ## Project Overview
 This project is a **Smart Safety Helmet** designed to improve worker safety using embedded electronics.  
